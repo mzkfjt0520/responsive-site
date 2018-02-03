@@ -75,6 +75,16 @@ header{
         background-size: cover;
         background-position: center center;
     }
+    .site-title{
+        display: block;
+        font-size: 4.2rem;
+        color: $keyColor;
+    }
+    .site-description{
+        display:block;
+        font-size: 1.5rem;
+        margin-bottom:50px;
+    }
 }
 
 //desktop
